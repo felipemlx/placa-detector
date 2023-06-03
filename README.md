@@ -1,5 +1,5 @@
 # placa-detector
-Algoritmo simples utilizando visão computacional (opencv) pra ler a placa de veículos, seguindo alguns passos:
+Algoritmo simples utilizando visão computacional (opencv) pra ler a placa de veículos, seguindo alguns passos:<br/>
 1º Ler a imagem em escala de cinza
 ![image](https://github.com/felipemlx/placa-detector/assets/120753841/ea7dc88b-2ded-4520-ab6c-c15fea61a17d)
 2° Identificar a posição da placa pelos contornos, e recortar a imagem original
